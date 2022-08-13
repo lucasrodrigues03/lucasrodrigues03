@@ -1,5 +1,5 @@
 ### Olá 👋 
-  Sou Lucas Rodrigues tenho 25 anos e estudo programação há dois anos, sempre buscando aprimorar meus conhecimentos focando em projetos pessoais e em boas praticas 
+  Sou Lucas Rodrigues, tenho 25 anos e estudo programação há dois anos, sempre buscando aprimorar meus conhecimentos focando em projetos pessoais e em boas praticas 
 <div align="center">
   <a href="https://github.com/lucasrodrigues03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrodrigues03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
