@@ -1,5 +1,5 @@
 ### Olá 👋 
-  Sou Lucas Rodrigues, tenho 25 anos e estudo programação há dois anos, sempre buscando aprimorar meus conhecimentos focando em projetos pessoais e em boas praticas 
+  Sou Lucas Rodrigues, tenho 25 anos e estudo programação há dois anos, Possuo pro eficiência em desenvolvimento front end utilizando tecnologias como HTML, CSS, JavaScript, React.js, TypeScript, styled-components, Context API e diversas outras ferramentas e boas práticas em desenvolvimento web.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
